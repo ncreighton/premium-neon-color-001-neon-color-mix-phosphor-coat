@@ -1,0 +1,2 @@
+# premium-neon-color-001-neon-color-mix-phosphor-coat
+Tired of guessing neon ratios and losing track of your perfect phosphor coat formulas?  This Notion template eliminates the guesswork by giving you a dedicated system to mix, log, and reproduce neon colors and phosphor coatings with precision. With built-in calculators, swatch galleries, and inventory tracking, you'll never waste materials or forge
